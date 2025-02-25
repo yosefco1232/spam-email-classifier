@@ -1,0 +1,15 @@
+text,label
+vxcvxc,spam
+vxcvxc,spam
+"Hey there,
+I wanted to offer you a great deal!
+Please contact me ASAP",spam
+"Hey,
+You've won the lottery! contact me please",spam
+We have a free gift for you! contact me please!,spam
+"Hey,
+Its john and I really need to talk to you about my career. 
+Can I call you tomorrow?
+Thank you",ham
+"Hey, how are you?",spam
+"Hey, its Maya. We need to talk",ham
