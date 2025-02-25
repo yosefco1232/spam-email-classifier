@@ -32,3 +32,5 @@ and allows users to provide feedback to improve the model.
 
 ## Custom Theme
 The app uses a custom theme defined in `.streamlit/config.toml`. To use the same theme, ensure the `config.toml` file is present in the `.streamlit` folder.
+
+![image](https://github.com/user-attachments/assets/019f7b6b-9e6b-461e-aa8f-352a70e3cb87)
